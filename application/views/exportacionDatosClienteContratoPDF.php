@@ -1,0 +1,6 @@
+<meta charset='utf-8'>
+<p style="text-align: justify; text-justify: inter-ideograph; font-size: 7.0pt;">Contrato de Prestación de Servicios de Resguardo de Bienes Valores de Sociedad Mercantil que celebran por una parte: <b>BOVEDAS MULTIBLINDADAS S. A. DE C. V., INSTITUCIÓN PRIVADA DE RESGUARDO Y CUSTODIA DE BIENES VALORES</b> cuyo domicilio se encuentra ubicado en la calle de <?=$datosSucursal['calle']." No. ".$datosSucursal['numero'].((empty($datosSucursal['numeroInterior']))?"":" Interior ".$datosSucursal['numeroInterior'])." Col. ".$datosSucursal['nombreRegion']." C.P. ".$datosSucursal['codigoPostal']." ".$datosSucursal['nombreMunicipio'].", ".$datosSucursal['nombreEstado']; ?>, representada en este acto por conducto de su apoderado legal, HECTOR GABRIEL GARATE GUTIERREZ, (en lo sucesivo "<b>GLOBAL SHIELD</b>") y por otra parte:
+    <?=$datosCliente['nombreCliente']?>, cuyo domicilio se encuentra ubicado en: <?php
+    print $datosCliente['calle']." No. ".$datosCliente['numero']."".((empty($datosCliente['numeroInterior']))?"":" Interior ".$datosCliente['numeroInterior'])." Col. ".$datosCliente['nombreRegion']." C.P. ".$datosCliente['codigoPostal']." ".$datosCliente['nombreMunicipio'].", ".$datosCliente['nombreEstado'];
+    ?>, (en lo sucesivo el "<b>CLIENTE</b>") de conformidad con las siguientes declaraciones y cláusulas:
+</p>

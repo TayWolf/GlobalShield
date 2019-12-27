@@ -1,0 +1,1573 @@
+
+Error al enviar correo<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>An Error Was Encountered</h1>
+		<p>Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.<br /><pre>Date: Mon, 6 May 2019 22:06:00 +0000
+From: &quot;GLOBAL SHIELD&quot; &lt;pruebas@globalshield.com.mx&gt;
+Return-Path: &lt;pruebas@globalshield.com.mx&gt;
+Reply-To: &lt;pruebas@globalshield.com.mx&gt;
+User-Agent: CodeIgniter
+X-Sender: pruebas@globalshield.com.mx
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;5cd0afc86f00e@globalshield.com.mx&gt;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_5cd0afc86f017&quot;
+=?UTF-8?Q?Tu=20contrato=20esta=20por=20vencer?=
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5cd0afc86f017
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+&amp;#xA0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tu contrato esta por vencer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ &amp;#xA0;
+
+
+
+
+
+
+
+ &amp;#xA0;
+
+
+
+ Buen día asdasdasdasdasdasdasd, el mótivo del presente es para
+informarte que tu contrato esta por vencer
+
+ Membresía: MEMBRESIA PARA PRUEBAS
+ Número de caja: A-7
+ Fecha de termino: 2019-05-07
+
+ Haz clic aquí para ver los detalles sobre la renovación del contrato
+
+
+--B_ALT_5cd0afc86f017
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=3C=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Strict//EN=22 =22http://=
+www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd=22=3E
+=3Chtml xmlns=3D=22http://www.w3.org/1999/xhtml=22=3E
+
+=3Chead=3E
+ =3Cmeta http-equiv=3D=22Content-Type=22 content=3D=22text/html=3B charset=
+=3Diso-8859-1=22 /=3E
+ =3Cmeta http-equiv=3D=22Content-Language=22 content=3D=22es=22/=3E
+ =3Cmeta name=3D=22viewport=22 content=3D=22width=3Ddevice-width=22=3E
+ =3Ctitle=3EContrato por vencer=3C/title=3E
+ =3Cstyle=3E
+
+ =23outlook a =7B
+ padding: 0=3B =7D
+
+ body =7B
+ width: 100=25 =21important=3B
+ min-width: 100=25=3B
+ -webkit-text-size-adjust: 100=25=3B
+ -ms-text-size-adjust: 100=25=3B
+ margin: 0=3B
+ Margin: 0=3B
+ padding: 0=3B
+ -moz-box-sizing: border-box=3B
+ -webkit-box-sizing: border-box=3B
+ box-sizing: border-box=3B =7D
+
+ img =7B
+ outline: none=3B
+ text-decoration: none=3B
+ -ms-interpolation-mode: bicubic=3B
+ width: auto=3B
+ max-width: 100=25=3B
+ clear: both=3B
+ display: block=3B =7D
+
+ center =7B
+ width: 100=25=3B
+ min-width: 580px=3B =7D
+
+ a img =7B
+ border: none=3B =7D
+
+ p =7B
+ margin: 0 0 0 10px=3B
+ Margin: 0 0 0 10px=3B =7D
+
+ table =7B
+ border-spacing: 0=3B
+ border-collapse: collapse=3B =7D
+
+ td =7B
+ word-wrap: break-word=3B
+ -webkit-hyphens: auto=3B
+ -moz-hyphens: auto=3B
+ hyphens: auto=3B
+ border-collapse: collapse =21important=3B =7D
+
+ table, tr, td =7B
+ padding: 0=3B
+ vertical-align: top=3B
+ text-align: left=3B =7D
+
+ =40media only screen =7B
+ html =7B
+ min-height: 100=25=3B
+ background: =23f3f3f3=3B =7D =7D
+
+ table.body =7B
+ background: =23f3f3f3=3B
+ height: 100=25=3B
+ width: 100=25=3B =7D
+
+ table.container =7B
+ background: =23fefefe=3B
+ width: 580px=3B
+ margin: 0 auto=3B
+ Margin: 0 auto=3B
+ text-align: inherit=3B =7D
+
+ table.row =7B
+ padding: 0=3B
+ width: 100=25=3B
+ position: relative=3B =7D
+
+ table.spacer =7B
+ width: 100=25=3B =7D
+ table.spacer td =7B
+ mso-line-height-rule: exactly=3B =7D
+
+ table.container table.row =7B
+ display: table=3B =7D
+
+ td.columns,
+ td.column,
+ th.columns,
+ th.column =7B
+ margin: 0 auto=3B
+ Margin: 0 auto=3B
+ padding-left: 16px=3B
+ padding-bottom: 16px=3B =7D
+ td.columns .column,
+ td.columns .columns,
+ td.column .column,
+ td.column .columns,
+ th.columns .column,
+ th.columns .columns,
+ th.column .column,
+ th.column .columns =7B
+ padding-left: 0 =21important=3B
+ padding-right: 0 =21important=3B =7D
+ td.columns .column center,
+ td.columns .columns center,
+ td.column .column center,
+ td.column .columns center,
+ th.columns .column center,
+ th.columns .columns center,
+ th.column .column center,
+ th.column .columns center =7B
+ /=2Amin-width: none =21important=3B =2A/
+ =7D
+
+ td.columns.last,
+ td.column.last,
+ th.columns.last,
+ th.column.last =7B
+ padding-right: 16px=3B =7D
+
+ td.columns table:not(.button),
+ td.column table:not(.button),
+ th.columns table:not(.button),
+ th.column table:not(.button) =7B
+ width: 100=25=3B =7D
+
+ td.large-1,
+ th.large-1 =7B
+ width: 32.33333px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-1.first,
+ th.large-1.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-1.last,
+ th.large-1.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-1,
+ .collapse =3E tbody =3E tr =3E th.large-1 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 48.33333px=3B =7D
+
+ .collapse td.large-1.first,
+ .collapse th.large-1.first,
+ .collapse td.large-1.last,
+ .collapse th.large-1.last =7B
+ width: 56.33333px=3B =7D
+
+ td.large-1 center,
+ th.large-1 center =7B
+ min-width: 0.33333px=3B =7D
+
+ .body .columns td.large-1,
+ .body .column td.large-1,
+ .body .columns th.large-1,
+ .body .column th.large-1 =7B
+ width: 8.33333=25=3B =7D
+
+ td.large-2,
+ th.large-2 =7B
+ width: 80.66667px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-2.first,
+ th.large-2.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-2.last,
+ th.large-2.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-2,
+ .collapse =3E tbody =3E tr =3E th.large-2 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 96.66667px=3B =7D
+
+ .collapse td.large-2.first,
+ .collapse th.large-2.first,
+ .collapse td.large-2.last,
+ .collapse th.large-2.last =7B
+ width: 104.66667px=3B =7D
+
+ td.large-2 center,
+ th.large-2 center =7B
+ min-width: 48.66667px=3B =7D
+
+ .body .columns td.large-2,
+ .body .column td.large-2,
+ .body .columns th.large-2,
+ .body .column th.large-2 =7B
+ width: 16.66667=25=3B =7D
+
+ td.large-3,
+ th.large-3 =7B
+ width: 129px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-3.first,
+ th.large-3.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-3.last,
+ th.large-3.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-3,
+ .collapse =3E tbody =3E tr =3E th.large-3 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 145px=3B =7D
+
+ .collapse td.large-3.first,
+ .collapse th.large-3.first,
+ .collapse td.large-3.last,
+ .collapse th.large-3.last =7B
+ width: 153px=3B =7D
+
+ td.large-3 center,
+ th.large-3 center =7B
+ min-width: 97px=3B =7D
+
+ .body .columns td.large-3,
+ .body .column td.large-3,
+ .body .columns th.large-3,
+ .body .column th.large-3 =7B
+ width: 25=25=3B =7D
+
+ td.large-4,
+ th.large-4 =7B
+ width: 177.33333px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-4.first,
+ th.large-4.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-4.last,
+ th.large-4.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-4,
+ .collapse =3E tbody =3E tr =3E th.large-4 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 193.33333px=3B =7D
+
+ .collapse td.large-4.first,
+ .collapse th.large-4.first,
+ .collapse td.large-4.last,
+ .collapse th.large-4.last =7B
+ width: 201.33333px=3B =7D
+
+ td.large-4 center,
+ th.large-4 center =7B
+ min-width: 145.33333px=3B =7D
+
+ .body .columns td.large-4,
+ .body .column td.large-4,
+ .body .columns th.large-4,
+ .body .column th.large-4 =7B
+ width: 33.33333=25=3B =7D
+
+ td.large-5,
+ th.large-5 =7B
+ width: 225.66667px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-5.first,
+ th.large-5.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-5.last,
+ th.large-5.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-5,
+ .collapse =3E tbody =3E tr =3E th.large-5 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 241.66667px=3B =7D
+
+ .collapse td.large-5.first,
+ .collapse th.large-5.first,
+ .collapse td.large-5.last,
+ .collapse th.large-5.last =7B
+ width: 249.66667px=3B =7D
+
+ td.large-5 center,
+ th.large-5 center =7B
+ min-width: 193.66667px=3B =7D
+
+ .body .columns td.large-5,
+ .body .column td.large-5,
+ .body .columns th.large-5,
+ .body .column th.large-5 =7B
+ width: 41.66667=25=3B =7D
+
+ td.large-6,
+ th.large-6 =7B
+ width: 274px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-6.first,
+ th.large-6.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-6.last,
+ th.large-6.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-6,
+ .collapse =3E tbody =3E tr =3E th.large-6 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 290px=3B =7D
+
+ .collapse td.large-6.first,
+ .collapse th.large-6.first,
+ .collapse td.large-6.last,
+ .collapse th.large-6.last =7B
+ width: 298px=3B =7D
+
+ td.large-6 center,
+ th.large-6 center =7B
+ min-width: 242px=3B =7D
+
+ .body .columns td.large-6,
+ .body .column td.large-6,
+ .body .columns th.large-6,
+ .body .column th.large-6 =7B
+ width: 50=25=3B =7D
+
+ td.large-7,
+ th.large-7 =7B
+ width: 322.33333px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-7.first,
+ th.large-7.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-7.last,
+ th.large-7.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-7,
+ .collapse =3E tbody =3E tr =3E th.large-7 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 338.33333px=3B =7D
+
+ .collapse td.large-7.first,
+ .collapse th.large-7.first,
+ .collapse td.large-7.last,
+ .collapse th.large-7.last =7B
+ width: 346.33333px=3B =7D
+
+ td.large-7 center,
+ th.large-7 center =7B
+ min-width: 290.33333px=3B =7D
+
+ .body .columns td.large-7,
+ .body .column td.large-7,
+ .body .columns th.large-7,
+ .body .column th.large-7 =7B
+ width: 58.33333=25=3B =7D
+
+ td.large-8,
+ th.large-8 =7B
+ width: 370.66667px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-8.first,
+ th.large-8.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-8.last,
+ th.large-8.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-8,
+ .collapse =3E tbody =3E tr =3E th.large-8 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 386.66667px=3B =7D
+
+ .collapse td.large-8.first,
+ .collapse th.large-8.first,
+ .collapse td.large-8.last,
+ .collapse th.large-8.last =7B
+ width: 394.66667px=3B =7D
+
+ td.large-8 center,
+ th.large-8 center =7B
+ min-width: 338.66667px=3B =7D
+
+ .body .columns td.large-8,
+ .body .column td.large-8,
+ .body .columns th.large-8,
+ .body .column th.large-8 =7B
+ width: 66.66667=25=3B =7D
+
+ td.large-9,
+ th.large-9 =7B
+ width: 419px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-9.first,
+ th.large-9.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-9.last,
+ th.large-9.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-9,
+ .collapse =3E tbody =3E tr =3E th.large-9 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 435px=3B =7D
+
+ .collapse td.large-9.first,
+ .collapse th.large-9.first,
+ .collapse td.large-9.last,
+ .collapse th.large-9.last =7B
+ width: 443px=3B =7D
+
+ td.large-9 center,
+ th.large-9 center =7B
+ min-width: 387px=3B =7D
+
+ .body .columns td.large-9,
+ .body .column td.large-9,
+ .body .columns th.large-9,
+ .body .column th.large-9 =7B
+ width: 75=25=3B =7D
+
+ td.large-10,
+ th.large-10 =7B
+ width: 467.33333px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-10.first,
+ th.large-10.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-10.last,
+ th.large-10.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-10,
+ .collapse =3E tbody =3E tr =3E th.large-10 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 483.33333px=3B =7D
+
+ .collapse td.large-10.first,
+ .collapse th.large-10.first,
+ .collapse td.large-10.last,
+ .collapse th.large-10.last =7B
+ width: 491.33333px=3B =7D
+
+ td.large-10 center,
+ th.large-10 center =7B
+ min-width: 435.33333px=3B =7D
+
+ .body .columns td.large-10,
+ .body .column td.large-10,
+ .body .columns th.large-10,
+ .body .column th.large-10 =7B
+ width: 83.33333=25=3B =7D
+
+ td.large-11,
+ th.large-11 =7B
+ width: 515.66667px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-11.first,
+ th.large-11.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-11.last,
+ th.large-11.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-11,
+ .collapse =3E tbody =3E tr =3E th.large-11 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 531.66667px=3B =7D
+
+ .collapse td.large-11.first,
+ .collapse th.large-11.first,
+ .collapse td.large-11.last,
+ .collapse th.large-11.last =7B
+ width: 539.66667px=3B =7D
+
+ td.large-11 center,
+ th.large-11 center =7B
+ min-width: 483.66667px=3B =7D
+
+ .body .columns td.large-11,
+ .body .column td.large-11,
+ .body .columns th.large-11,
+ .body .column th.large-11 =7B
+ width: 91.66667=25=3B =7D
+
+ td.large-12,
+ th.large-12 =7B
+ width: 564px=3B
+ padding-left: 8px=3B
+ padding-right: 8px=3B =7D
+
+ td.large-12.first,
+ th.large-12.first =7B
+ padding-left: 16px=3B =7D
+
+ td.large-12.last,
+ th.large-12.last =7B
+ padding-right: 16px=3B =7D
+
+ .collapse =3E tbody =3E tr =3E td.large-12,
+ .collapse =3E tbody =3E tr =3E th.large-12 =7B
+ padding-right: 0=3B
+ padding-left: 0=3B
+ width: 580px=3B =7D
+
+ .collapse td.large-12.first,
+ .collapse th.large-12.first,
+ .collapse td.large-12.last,
+ .collapse th.large-12.last =7B
+ width: 588px=3B =7D
+
+ td.large-12 center,
+ th.large-12 center =7B
+ min-width: 532px=3B =7D
+
+ .body .columns td.large-12,
+ .body .column td.large-12,
+ .body .columns th.large-12,
+ .body .column th.large-12 =7B
+ width: 100=25=3B =7D
+
+ td.large-offset-1,
+ td.large-offset-1.first,
+ td.large-offset-1.last,
+ th.large-offset-1,
+ th.large-offset-1.first,
+ th.large-offset-1.last =7B
+ padding-left: 64.33333px=3B =7D
+
+ td.large-offset-2,
+ td.large-offset-2.first,
+ td.large-offset-2.last,
+ th.large-offset-2,
+ th.large-offset-2.first,
+ th.large-offset-2.last =7B
+ padding-left: 112.66667px=3B =7D
+
+ td.large-offset-3,
+ td.large-offset-3.first,
+ td.large-offset-3.last,
+ th.large-offset-3,
+ th.large-offset-3.first,
+ th.large-offset-3.last =7B
+ padding-left: 161px=3B =7D
+
+ td.large-offset-4,
+ td.large-offset-4.first,
+ td.large-offset-4.last,
+ th.large-offset-4,
+ th.large-offset-4.first,
+ th.large-offset-4.last =7B
+ padding-left: 209.33333px=3B =7D
+
+ td.large-offset-5,
+ td.large-offset-5.first,
+ td.large-offset-5.last,
+ th.large-offset-5,
+ th.large-offset-5.first,
+ th.large-offset-5.last =7B
+ padding-left: 257.66667px=3B =7D
+
+ td.large-offset-6,
+ td.large-offset-6.first,
+ td.large-offset-6.last,
+ th.large-offset-6,
+ th.large-offset-6.first,
+ th.large-offset-6.last =7B
+ padding-left: 306px=3B =7D
+
+ td.large-offset-7,
+ td.large-offset-7.first,
+ td.large-offset-7.last,
+ th.large-offset-7,
+ th.large-offset-7.first,
+ th.large-offset-7.last =7B
+ padding-left: 354.33333px=3B =7D
+
+ td.large-offset-8,
+ td.large-offset-8.first,
+ td.large-offset-8.last,
+ th.large-offset-8,
+ th.large-offset-8.first,
+ th.large-offset-8.last =7B
+ padding-left: 402.66667px=3B =7D
+
+ td.large-offset-9,
+ td.large-offset-9.first,
+ td.large-offset-9.last,
+ th.large-offset-9,
+ th.large-offset-9.first,
+ th.large-offset-9.last =7B
+ padding-left: 451px=3B =7D
+
+ td.large-offset-10,
+ td.large-offset-10.first,
+ td.large-offset-10.last,
+ th.large-offset-10,
+ th.large-offset-10.first,
+ th.large-offset-10.last =7B
+ padding-left: 499.33333px=3B =7D
+
+ td.large-offset-11,
+ td.large-offset-11.first,
+ td.large-offset-11.last,
+ th.large-offset-11,
+ th.large-offset-11.first,
+ th.large-offset-11.last =7B
+ padding-left: 547.66667px=3B =7D
+
+ td.expander,
+ th.expander =7B
+ visibility: hidden=3B
+ width: 0=3B
+ padding: 0 =21important=3B =7D
+
+ table.container.radius =7B
+ border-radius: 0=3B
+ border-collapse: separate=3B =7D
+
+ .block-grid =7B
+ width: 100=25=3B
+ max-width: 580px=3B =7D
+ .block-grid td =7B
+ display: inline-block=3B
+ padding: 8px=3B =7D
+
+ .up-2 td =7B
+ width: 274px =21important=3B =7D
+
+ .up-3 td =7B
+ width: 177px =21important=3B =7D
+
+ .up-4 td =7B
+ width: 129px =21important=3B =7D
+
+ .up-5 td =7B
+ width: 100px =21important=3B =7D
+
+ .up-6 td =7B
+ width: 80px =21important=3B =7D
+
+ .up-7 td =7B
+ width: 66px =21important=3B =7D
+
+ .up-8 td =7B
+ width: 56px =21important=3B =7D
+
+ table.text-center,
+ th.text-center,
+ td.text-center,
+ h1.text-center,
+ h2.text-center,
+ h3.text-center,
+ h4.text-center,
+ h5.text-center,
+ h6.text-center,
+ p.text-center,
+ span.text-center =7B
+ text-align: center=3B =7D
+
+ table.text-left,
+ th.text-left,
+ td.text-left,
+ h1.text-left,
+ h2.text-left,
+ h3.text-left,
+ h4.text-left,
+ h5.text-left,
+ h6.text-left,
+ p.text-left,
+ span.text-left =7B
+ text-align: left=3B =7D
+
+ table.text-right,
+ th.text-right,
+ td.text-right,
+ h1.text-right,
+ h2.text-right,
+ h3.text-right,
+ h4.text-right,
+ h5.text-right,
+ h6.text-right,
+ p.text-right,
+ span.text-right =7B
+ text-align: right=3B =7D
+
+ span.text-center =7B
+ display: block=3B
+ width: 100=25=3B
+ text-align: center=3B =7D
+
+ =40media only screen and (max-width: 596px) =7B
+ .small-float-center =7B
+ margin: 0 auto =21important=3B
+ float: none =21important=3B
+ text-align: center =21important=3B =7D
+ .small-text-center =7B
+ text-align: center =21important=3B =7D
+ .small-text-left =7B
+ text-align: left =21important=3B =7D
+ .small-text-right =7B
+ text-align: right =21important=3B =7D =7D
+
+ img.float-left =7B
+ float: left=3B
+ text-align: left=3B =7D
+
+ img.float-right =7B
+ float: right=3B
+ text-align: right=3B =7D
+
+ img.float-center,
+ img.text-center =7B
+ margin: 0 auto=3B
+ Margin: 0 auto=3B
+ float: none=3B
+ text-align: center=3B =7D
+
+ table.float-center,
+ td.float-center,
+ th.float-center =7B
+ margin: 0 auto=3B
+ Margin: 0 auto=3B
+ float: none=3B
+ text-align: center=3B =7D
+
+ .hide-for-large =7B
+ display: none =21important=3B
+ mso-hide: all=3B
+ overflow: hidden=3B
+ max-height: 0=3B
+ font-size: 0=3B
+ width: 0=3B
+ line-height: 0=3B =7D
+ =40media only screen and (max-width: 596px) =7B
+ .hide-for-large =7B
+ display: block =21important=3B
+ width: auto =21important=3B
+ overflow: visible =21important=3B
+ max-height: none =21important=3B
+ font-size: inherit =21important=3B
+ line-height: inherit =21important=3B =7D =7D
+
+ table.body table.container .hide-for-large =2A =7B
+ mso-hide: all=3B =7D
+
+ =40media only screen and (max-width: 596px) =7B
+ table.body table.container .hide-for-large,
+ table.body table.container .row.hide-for-large =7B
+ display: table =21important=3B
+ width: 100=25 =21important=3B =7D =7D
+
+ =40media only screen and (max-width: 596px) =7B
+ table.body table.container .callout-inner.hide-for-large =7B
+ display: table-cell =21important=3B
+ width: 100=25 =21important=3B =7D =7D
+
+ =40media only screen and (max-width: 596px) =7B
+ table.body table.container .show-for-large =7B
+ display: none =21important=3B
+ width: 0=3B
+ mso-hide: all=3B
+ overflow: hidden=3B =7D =7D
+
+ body,
+ table.body,
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p,
+ td,
+ th,
+ a =7B
+ color: =230a0a0a=3B
+ font-family: Helvetica, Arial, sans-serif=3B
+ font-weight: normal=3B
+ padding: 0=3B
+ margin: 0=3B
+ Margin: 0=3B
+ text-align: left=3B
+ line-height: 1.3=3B =7D
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 =7B
+ color: inherit=3B
+ word-wrap: normal=3B
+ font-family: Helvetica, Arial, sans-serif=3B
+ font-weight: normal=3B
+ margin-bottom: 10px=3B
+ Margin-bottom: 10px=3B =7D
+
+ h1 =7B
+ font-size: 34px=3B =7D
+
+ h2 =7B
+ font-size: 30px=3B =7D
+
+ h3 =7B
+ font-size: 28px=3B =7D
+
+ h4 =7B
+ font-size: 24px=3B =7D
+
+ h5 =7B
+ font-size: 20px=3B =7D
+
+ h6 =7B
+ font-size: 18px=3B =7D
+
+ body,
+ table.body,
+ p,
+ td,
+ th =7B
+ font-size: 16px=3B
+ line-height: 1.3=3B =7D
+
+ p =7B
+ margin-bottom: 10px=3B
+ Margin-bottom: 10px=3B =7D
+ p.lead =7B
+ font-size: 20px=3B
+ line-height: 1.6=3B =7D
+ p.subheader =7B
+ margin-top: 4px=3B
+ margin-bottom: 8px=3B
+ Margin-top: 4px=3B
+ Margin-bottom: 8px=3B
+ font-weight: normal=3B
+ line-height: 1.4=3B
+ color: =238a8a8a=3B =7D
+
+ small =7B
+ font-size: 80=25=3B
+ color: =23cacaca=3B =7D
+
+ a =7B
+ color: =232199e8=3B
+ text-decoration: none=3B =7D
+ a:hover =7B
+ color: =23147dc2=3B =7D
+ a:active =7B
+ color: =23147dc2=3B =7D
+ a:visited =7B
+ color: =232199e8=3B =7D
+
+ h1 a,
+ h1 a:visited,
+ h2 a,
+ h2 a:visited,
+ h3 a,
+ h3 a:visited,
+ h4 a,
+ h4 a:visited,
+ h5 a,
+ h5 a:visited,
+ h6 a,
+ h6 a:visited =7B
+ color: =232199e8=3B =7D
+
+ pre =7B
+ background: =23f3f3f3=3B
+ margin: 30px 0=3B
+ Margin: 30px 0=3B =7D
+ pre code =7B
+ color: =23cacaca=3B =7D
+ pre code span.callout =7B
+ color: =238a8a8a=3B
+ font-weight: bold=3B =7D
+ pre code span.callout-strong =7B
+ color: =23ff6908=3B
+ font-weight: bold=3B =7D
+
+ table.hr =7B
+ width: 100=25=3B =7D
+ table.hr th =7B
+ height: 0=3B
+ max-width: 580px=3B
+ border-top: 0=3B
+ border-right: 0=3B
+ border-bottom: 1px solid =230a0a0a=3B
+ border-left: 0=3B
+ margin: 20px auto=3B
+ Margin: 20px auto=3B
+ clear: both=3B =7D
+
+ .stat =7B
+ font-size: 40px=3B
+ line-height: 1=3B =7D
+ p + .stat =7B
+ margin-top: -16px=3B
+ Margin-top: -16px=3B =7D
+
+ table.button table td =7B
+ text-align: left=3B
+ color: =23fefefe=3B
+ background: =232199e8=3B
+ border: 2px solid =232199e8=3B =7D
+ table.button table td a =7B
+ font-family: Helvetica, Arial, sans-serif=3B
+ font-size: 16px=3B
+ font-weight: bold=3B
+ color: =23fefefe=3B
+ text-decoration: none=3B
+ display: inline-block=3B
+ padding: 8px 16px 8px 16px=3B
+ border: 0 solid =232199e8=3B
+ border-radius: 3px=3B =7D
+ table.button.radius table td =7B
+ border-radius: 3px=3B
+ border: none=3B =7D
+ table.button.rounded table td =7B
+ border-radius: 500px=3B
+ border: none=3B =7D
+
+ table.button:hover table tr td a,
+ table.button:active table tr td a,
+ table.button table tr td a:visited,
+ table.button.tiny:hover table tr td a,
+ table.button.tiny:active table tr td a,
+ table.button.tiny table tr td a:visited,
+ table.button.small:hover table tr td a,
+ table.button.small:active table tr td a,
+ table.button.small table tr td a:visited,
+ table.button.large:hover table tr td a,
+ table.button.large:active table tr td a,
+ table.button.large table tr td a:visited =7B
+ color: =23fefefe=3B =7D
+
+ table.button.tiny table td,
+ table.button.tiny table a =7B
+ padding: 4px 8px 4px 8px=3B =7D
+
+ table.button.tiny table a =7B
+ font-size: 10px=3B
+ font-weight: normal=3B =7D
+
+ table.button.small table td,
+ table.button.small table a =7B
+ padding: 5px 10px 5px 10px=3B
+ font-size: 12px=3B =7D
+
+ table.button.large table a =7B
+ padding: 10px 20px 10px 20px=3B
+ font-size: 20px=3B =7D
+
+ table.button.expand,
+ table.button.expanded =7B
+ width: 100=25 =21important=3B =7D
+ table.button.expand table,
+ table.button.expanded table =7B
+ width: 100=25=3B =7D
+ table.button.expand table a,
+ table.button.expanded table a =7B
+ text-align: center=3B
+ width: 100=25=3B
+ padding-left: 0=3B
+ padding-right: 0=3B =7D
+ table.button.expand center,
+ table.button.expanded center =7B
+ min-width: 0=3B =7D
+
+ table.button:hover table td,
+ table.button:visited table td,
+ table.button:active table td =7B
+ background: =23147dc2=3B
+ color: =23fefefe=3B =7D
+
+ table.button:hover table a,
+ table.button:visited table a,
+ table.button:active table a =7B
+ border: 0 solid =23147dc2=3B =7D
+
+ table.button.secondary table td =7B
+ background: =23777777=3B
+ color: =23fefefe=3B
+ border: 0px solid =23777777=3B =7D
+
+ table.button.secondary table a =7B
+ color: =23fefefe=3B
+ border: 0 solid =23777777=3B =7D
+
+ table.button.secondary:hover table td =7B
+ background: =23919191=3B
+ color: =23fefefe=3B =7D
+
+ table.button.secondary:hover table a =7B
+ border: 0 solid =23919191=3B =7D
+
+ table.button.secondary:hover table td a =7B
+ color: =23fefefe=3B =7D
+
+ table.button.secondary:active table td a =7B
+ color: =23fefefe=3B =7D
+
+ table.button.secondary table td a:visited =7B
+ color: =23fefefe=3B =7D
+
+ table.button.success table td =7B
+ background: =233adb76=3B
+ border: 0px solid =233adb76=3B =7D
+
+ table.button.success table a =7B
+ border: 0 solid =233adb76=3B =7D
+
+ table.button.success:hover table td =7B
+ background: =2323bf5d=3B =7D
+
+ table.button.success:hover table a =7B
+ border: 0 solid =2323bf5d=3B =7D
+
+ table.button.alert table td =7B
+ background: =23ec5840=3B
+ border: 0px solid =23ec5840=3B =7D
+
+ table.button.alert table a =7B
+ border: 0 solid =23ec5840=3B =7D
+
+ table.button.alert:hover table td =7B
+ background: =23e23317=3B =7D
+
+ table.button.alert:hover table a =7B
+ border: 0 solid =23e23317=3B =7D
+
+ table.button.warning table td =7B
+ background: =23ffae00=3B
+ border: 0px solid =23ffae00=3B =7D
+
+ table.button.warning table a =7B
+ border: 0px solid =23ffae00=3B =7D
+
+ table.button.warning:hover table td =7B
+ background: =23cc8b00=3B =7D
+
+ table.button.warning:hover table a =7B
+ border: 0px solid =23cc8b00=3B =7D
+
+ table.callout =7B
+ margin-bottom: 16px=3B
+ Margin-bottom: 16px=3B =7D
+
+ th.callout-inner =7B
+ width: 100=25=3B
+ border: 1px solid =23cbcbcb=3B
+ padding: 10px=3B
+ background: =23fefefe=3B =7D
+ th.callout-inner.primary =7B
+ background: =23def0fc=3B
+ border: 1px solid =23444444=3B
+ color: =230a0a0a=3B =7D
+ th.callout-inner.secondary =7B
+ background: =23ebebeb=3B
+ border: 1px solid =23444444=3B
+ color: =230a0a0a=3B =7D
+ th.callout-inner.success =7B
+ background: =23e1faea=3B
+ border: 1px solid =231b9448=3B
+ color: =23fefefe=3B =7D
+ th.callout-inner.warning =7B
+ background: =23fff3d9=3B
+ border: 1px solid =23996800=3B
+ color: =23fefefe=3B =7D
+ th.callout-inner.alert =7B
+ background: =23fce6e2=3B
+ border: 1px solid =23b42912=3B
+ color: =23fefefe=3B =7D
+
+ .thumbnail =7B
+ border: solid 4px =23fefefe=3B
+ box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2)=3B
+ display: inline-block=3B
+ line-height: 0=3B
+ max-width: 100=25=3B
+ transition: box-shadow 200ms ease-out=3B
+ border-radius: 3px=3B
+ margin-bottom: 16px=3B =7D
+ .thumbnail:hover, .thumbnail:focus =7B
+ box-shadow: 0 0 6px 1px rgba(33, 153, 232, 0.5)=3B =7D
+
+ table.menu =7B
+ width: 580px=3B =7D
+ table.menu td.menu-item,
+ table.menu th.menu-item =7B
+ padding: 10px=3B
+ padding-right: 10px=3B =7D
+ table.menu td.menu-item a,
+ table.menu th.menu-item a =7B
+ color: =232199e8=3B =7D
+
+ table.menu.vertical td.menu-item,
+ table.menu.vertical th.menu-item =7B
+ padding: 10px=3B
+ padding-right: 0=3B
+ display: block=3B =7D
+ table.menu.vertical td.menu-item a,
+ table.menu.vertical th.menu-item a =7B
+ width: 100=25=3B =7D
+
+ table.menu.vertical td.menu-item table.menu.vertical td.menu-item,
+ table.menu.vertical td.menu-item table.menu.vertical th.menu-item,
+ table.menu.vertical th.menu-item table.menu.vertical td.menu-item,
+ table.menu.vertical th.menu-item table.menu.vertical th.menu-item =7B
+ padding-left: 10px=3B =7D
+
+ table.menu.text-center a =7B
+ text-align: center=3B =7D
+
+ .menu=5Balign=3D=22center=22=5D =7B
+ width: auto =21important=3B =7D
+
+ body.outlook p =7B
+ display: inline =21important=3B =7D
+
+ =40media only screen and (max-width: 596px) =7B
+ table.body img =7B
+ width: auto=3B
+ height: auto=3B =7D
+ table.body center =7B
+ min-width: 0 =21important=3B =7D
+ table.body .container =7B
+ width: 95=25 =21important=3B =7D
+ table.body .columns,
+ table.body .column =7B
+ height: auto =21important=3B
+ -moz-box-sizing: border-box=3B
+ -webkit-box-sizing: border-box=3B
+ box-sizing: border-box=3B
+ padding-left: 16px =21important=3B
+ padding-right: 16px =21important=3B =7D
+ table.body .columns .column,
+ table.body .columns .columns,
+ table.body .column .column,
+ table.body .column .columns =7B
+ padding-left: 0 =21important=3B
+ padding-right: 0 =21important=3B =7D
+ table.body .collapse .columns,
+ table.body .collapse .column =7B
+ padding-left: 0 =21important=3B
+ padding-right: 0 =21important=3B =7D
+ td.small-1,
+ th.small-1 =7B
+ display: inline-block =21important=3B
+ width: 8.33333=25 =21important=3B =7D
+ td.small-2,
+ th.small-2 =7B
+ display: inline-block =21important=3B
+ width: 16.66667=25 =21important=3B =7D
+ td.small-3,
+ th.small-3 =7B
+ display: inline-block =21important=3B
+ width: 25=25 =21important=3B =7D
+ td.small-4,
+ th.small-4 =7B
+ display: inline-block =21important=3B
+ width: 33.33333=25 =21important=3B =7D
+ td.small-5,
+ th.small-5 =7B
+ display: inline-block =21important=3B
+ width: 41.66667=25 =21important=3B =7D
+ td.small-6,
+ th.small-6 =7B
+ display: inline-block =21important=3B
+ width: 50=25 =21important=3B =7D
+ td.small-7,
+ th.small-7 =7B
+ display: inline-block =21important=3B
+ width: 58.33333=25 =21important=3B =7D
+ td.small-8,
+ th.small-8 =7B
+ display: inline-block =21important=3B
+ width: 66.66667=25 =21important=3B =7D
+ td.small-9,
+ th.small-9 =7B
+ display: inline-block =21important=3B
+ width: 75=25 =21important=3B =7D
+ td.small-10,
+ th.small-10 =7B
+ display: inline-block =21important=3B
+ width: 83.33333=25 =21important=3B =7D
+ td.small-11,
+ th.small-11 =7B
+ display: inline-block =21important=3B
+ width: 91.66667=25 =21important=3B =7D
+ td.small-12,
+ th.small-12 =7B
+ display: inline-block =21important=3B
+ width: 100=25 =21important=3B =7D
+ .columns td.small-12,
+ .column td.small-12,
+ .columns th.small-12,
+ .column th.small-12 =7B
+ display: block =21important=3B
+ width: 100=25 =21important=3B =7D
+ table.body td.small-offset-1,
+ table.body th.small-offset-1 =7B
+ margin-left: 8.33333=25 =21important=3B
+ Margin-left: 8.33333=25 =21important=3B =7D
+ table.body td.small-offset-2,
+ table.body th.small-offset-2 =7B
+ margin-left: 16.66667=25 =21important=3B
+ Margin-left: 16.66667=25 =21important=3B =7D
+ table.body td.small-offset-3,
+ table.body th.small-offset-3 =7B
+ margin-left: 25=25 =21important=3B
+ Margin-left: 25=25 =21important=3B =7D
+ table.body td.small-offset-4,
+ table.body th.small-offset-4 =7B
+ margin-left: 33.33333=25 =21important=3B
+ Margin-left: 33.33333=25 =21important=3B =7D
+ table.body td.small-offset-5,
+ table.body th.small-offset-5 =7B
+ margin-left: 41.66667=25 =21important=3B
+ Margin-left: 41.66667=25 =21important=3B =7D
+ table.body td.small-offset-6,
+ table.body th.small-offset-6 =7B
+ margin-left: 50=25 =21important=3B
+ Margin-left: 50=25 =21important=3B =7D
+
+ table.body table.columns td.expander,
+ table.body table.columns th.expander =7B
+ display: none =21important=3B =7D
+
+ table.menu td,
+ table.menu th =7B
+ width: auto =21important=3B
+ display: inline-block =21important=3B =7D
+ table.menu.vertical td,
+ table.menu.vertical th, table.menu.small-vertical td,
+ table.menu.small-vertical th =7B
+ display: block =21important=3B =7D
+ table.menu=5Balign=3D=22center=22=5D =7B
+ width: auto =21important=3B =7D
+ table.button.small-expand,
+ table.button.small-expanded =7B
+ width: 100=25 =21important=3B =7D
+ table.button.small-expand table,
+ table.button.small-expanded table =7B
+ width: 100=25=3B =7D
+ table.button.small-expand table a,
+ table.button.small-expanded table a =7B
+ text-align: center =21important=3B
+ width: 100=25 =21important=3B
+ padding-left: 0 =21important=3B
+ padding-right: 0 =21important=3B =7D
+ table.button.small-expand center,
+ table.button.small-expanded center =7B
+ min-width: 0=3B =7D =7D
+
+ =3C/style=3E
+
+ =3Cstyle=3E
+ body,
+ html,
+ .body =7B
+ background: =23f3f3f3 =21important=3B
+ =7D
+
+ .container.header =7B
+ background: =23f3f3f3=3B
+ =7D
+
+ .body-border =7B
+ border-top: 8px solid =231c3582=3B
+ =7D
+ =3C/style=3E
+=3C/head=3E
+
+=3Cbody=3E
+=3C=21-- =3Cstyle=3E --=3E
+=3Ctable class=3D=22body=22 data-made-with-foundation=3D=22=22=3E
+ =3Ctr=3E
+ =3Ctd class=3D=22float-center=22 align=3D=22center=22 valign=3D=22top=22=
+=3E
+ =3Ccenter data-parsed=3D=22=22=3E
+ =3Ctable class=3D=22spacer float-center=22=3E
+ =3Ctbody=3E
+ =3Ctr=3E
+ =3Ctd height=3D=2216px=22 style=3D=22font-size:16px=3Bline-height:16px=3B=
+=22=3E=26=23xA0=3B=3C/td=3E
+ =3C/tr=3E
+ =3C/tbody=3E
+ =3C/table=3E
+ =3Ctable align=3D=22center=22 class=3D=22container header float-center=22=
+=3E
+ =3Ctbody=3E
+ =3Ctr=3E
+ =3Ctd=3E
+ =3Ctable class=3D=22row=22=3E
+ =3Ctbody=3E
+ =3Ctr=3E
+ =3Cth class=3D=22small-12 large-12 columns first last=22=3E
+ =3Ctable=3E
+ =3Ctr=3E
+ =3Cth=3E
+ =3Ch1 class=3D=22text-center=22=3ETu contrato esta por vencer.=3C/h1=3E
+ =3C/th=3E
+ =3Cth class=3D=22expander=22=3E=3C/th=3E
+ =3C/tr=3E
+ =3C/table=3E
+ =3C/th=3E
+ =3C/tr=3E
+ =3C/tbody=3E
+ =3C/table=3E
+ =3C/td=3E
+ =3C/tr=3E
+ =3C/tbody=3E
+ =3C/table=3E
+ =3Ctable align=3D=22center=22 class=3D=22container body-border float-cente=
+r=22=3E
+ =3Ctbody=3E
+ =3Ctr=3E
+ =3Ctd=3E
+ =3Ctable class=3D=22row=22=3E
+ =3Ctbody=3E
+ =3Ctr=3E
+ =3Cth class=3D=22small-12 large-12 columns first last=22=3E
+ =3Ctable=3E
+ =3Ctr=3E
+ =3Cth=3E
+ =3Ctable class=3D=22spacer=22=3E
+ =3Ctbody=3E
+ =3Ctr=3E
+ =3Ctd height=3D=2232px=22 style=3D=22font-size:32px=3Bline-height:32px=3B=
+=22=3E=26=23xA0=3B=3C/td=3E
+ =3C/tr=3E
+ =3C/tbody=3E
+ =3C/table=3E
+ =3Ccenter data-parsed=3D=22=22=3E =3Cimg src=3D=22https://www.globalshield=
+.com.mx/admin/assets/globalShield.png=22 align=3D=22center=22 class=3D=22fl=
+oat-center=22=3E =3C/center=3E
+ =3Ctable class=3D=22spacer=22=3E
+ =3Ctbody=3E
+ =3Ctr=3E
+ =3Ctd height=3D=2216px=22 style=3D=22font-size:16px=3Bline-height:16px=3B=
+=22=3E=26=23xA0=3B=3C/td=3E
+ =3C/tr=3E
+ =3C/tbody=3E
+ =3C/table=3E
+ =3Ch4 align=3D=22center=22 style=3D=22text-align: center=3B=22=3EBuen d=C3=
+=83=C2=ADa asdasdasdasdasdasdasd, el m=C3=83=C2=B3tivo del presente es para=
+ informarte que tu contrato esta por vencer=3C/h4=3E
+ =3Cul=3E
+ =3Cli=3EMembres=C3=83=C2=ADa: MEMBRESIA PARA PRUEBAS=3C/li=3E
+ =3Cli=3EN=C3=83=C2=BAmero de caja: A-7=3C/li=3E
+ =3Cli=3EFecha de termino: 2019-05-07=3C/li=3E
+ =3C/ul=3E
+ =3Ca align=3D=22center=22 style=3D=22text-align: center=3B=22 href=3D=22ht=
+tps://www.globalshield.com.mx/admin/index.php/Clientes/verDetalleRenovacion=
+Contrato/ea885ecbc840d27a4598e9a6b5639b4f3bec6e56030efa9754dde74c84d61c1fb5=
+eafb31c41ae9b9b37e5de622703b9b5effa582e05202e7796edfeb7da1c8a8u0YX1lgHxjjt0=
+YMg9gHkNpd8cz1um0jW=7ER5d27OEwYM-=22=3EHaz clic aqu=C3=83=C2=AD para ver lo=
+s detalles sobre la renovaci=C3=83=C2=B3n del contrato=3C/a=3E
+ =3C/th=3E
+ =3Cth class=3D=22expander=22=3E=3C/th=3E
+ =3C/tr=3E
+ =3C/table=3E
+ =3C/th=3E
+ =3C/tr=3E
+ =3C/tbody=3E
+ =3C/table=3E
+ =3C/td=3E
+ =3C/tr=3E
+ =3C/tbody=3E
+ =3C/table=3E
+ =3C/center=3E
+ =3C/td=3E
+ =3C/tr=3E
+=3C/table=3E
+=3C/body=3E
+
+=3C/html=3E
+
+--B_ALT_5cd0afc86f017--</pre></p>	</div>
+</body>
+</html>
